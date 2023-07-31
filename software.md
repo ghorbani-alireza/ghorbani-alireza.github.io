@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: "/research/"
+permalink: "/software/"
 layout: page
 ---
 
