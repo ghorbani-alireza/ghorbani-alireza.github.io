@@ -16,8 +16,7 @@ These two approaches were compared.
 ## Projects
 
  - Sentiment Analysis for Persian Text, In this project, I classified Persian text by the polarity (positive
-or negative) opinions expressed within them. This project is done by R programming language
-GitHub Repository
+or negative) opinions expressed within them. This project is done by [R programming language.](https://github.com/alcstat/sentiment_analysis_persian)
  - Bayesian Statistics Specialization in R and Python, In this project, I have tried not only to complete
 the assignments but to step further and do honorary, exploratory assignments, and even my ideas in R
 and, also, Python
