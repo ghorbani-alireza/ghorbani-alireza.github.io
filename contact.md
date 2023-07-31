@@ -7,6 +7,7 @@ layout: page
 ## Social Media
 
   - [icon: linkedin]("https://www.linkedin.com/in/alcstat/")
+  - [![github](https://github.com/KaTeX/KaTeX/workflows/CI/badge.svg?branch=master&event=push)](https://github.com/KaTeX/KaTeX/actions?query=workflow%3ACI)
   - [icon: github]("https://github.com/alcstat/")
   - [icon: google]("https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en")
   - [icon: registered]("https://www.researchgate.net/profile/Alireza-Ghorbani-3")
