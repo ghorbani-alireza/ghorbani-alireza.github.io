@@ -6,14 +6,14 @@ layout: page
 
 ## Social Media
 
-  - {icon: linkedin, url: "https://www.linkedin.com/in/alcstat/"}
-  - {icon: github, url: "https://github.com/alcstat/"}
-  - {icon: google, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
-  - {icon: registered, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
+  - [icon: linkedin]("https://www.linkedin.com/in/alcstat/")
+  - [icon: github]("https://github.com/alcstat/")
+  - [icon: google]("https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en")
+  - [icon: registered]("https://www.researchgate.net/profile/Alireza-Ghorbani-3")
 
 
 
 ## Contact Information
 
-  - {icon: envelope, url: "mailto:alcstat@outlook.com"}
-  - {icon: telegram, url: "https://t.me/alcstat/"}
+  - [icon: envelope]("mailto:alcstat@outlook.com")
+  - [icon: telegram]("https://t.me/alcstat/")
