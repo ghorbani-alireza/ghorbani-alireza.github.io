@@ -24,7 +24,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alcstat/"}
   - {title: Github, icon: github, url: "https://github.com/alcstat/"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
-  - {title: ResearchGate, icon: bookmark, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
+  - {title: ResearchGate, icon: registered, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
