@@ -10,7 +10,7 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
-show_sidebar: true         # show a sidebar instead of the usual header
+show_sidebar: false         # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
 # Menu
@@ -20,9 +20,11 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", icoon: book}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/alcstat"}
-  - {title: Subscribe, icon: rss, url: "https://alcstat.github.io"}
+  - {title: Mail, icon: envelope, url: "mailto:alcstat@outlook.com"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alcstat/"}
+  - {title: Github, icon: github, url: "https://github.com/alcstat/"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
+  - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
