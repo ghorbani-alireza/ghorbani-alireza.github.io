@@ -6,9 +6,9 @@ layout: page
 
 ## Publications
 
- - supports dark mode on macOS Mojave
+ - S
 
 ## Projects
 
- - [Hyde](https://github.com/poole/hyde)
+ - [alcstat](https://github.com/alcstat)
 
