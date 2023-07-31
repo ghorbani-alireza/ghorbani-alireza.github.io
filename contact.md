@@ -10,7 +10,7 @@ layout: page
   - [github]("https://github.com/alcstat/")
   - [google]("https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en")
   - [registered]("https://www.researchgate.net/profile/Alireza-Ghorbani-3")
-  - ![Facebook icon](https://github.com/facebook.png)
+  - ![Facebook icon](<img src="https://github.com/facebook.png" alt="Facebook icon" width="32" height="32">)
 
 
 
