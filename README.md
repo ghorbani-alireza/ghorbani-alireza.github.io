@@ -4,24 +4,21 @@ permalink: "/research/"
 layout: page
 ---
 
-## About
-
-
-## Features
+## Publications
 
  - supports dark mode on macOS Mojave
- - optional sidebar
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+
+## Projects
+
+ - [Hyde](https://github.com/poole/hyde)
 
 ## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
+ - [Minima](https://github.com/jekyll/minima)
 
 ## Installation (jekyll-remote-theme method)
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
-Note: to enable icons you also need to copy over the `_data` folder.
+You can use this theme with the `jekyll-remote-theme` plugin. 
 
 ## Screenshots
 
