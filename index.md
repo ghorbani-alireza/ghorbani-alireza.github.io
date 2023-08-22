@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div>
-  <img src="https://avatars.githubusercontent.com/u/55197758?s=400&u=fb1a53f017e98b0deaeadecb1ffb3b7dac8de3cc&v=4" alt="My Pic" style="float:left; margin-right:10px;" />
+  <img src="https://www.alcstat.github.io/assets/1692710671275.jpg" />
   <p> I'm a quantitative research analyst in the research and development department at <a href="https://www.zarrinroya.com/en/">Zarrin Roya</a> where my research focuses on applying statistics to translate consumers' opinions into business insight. The projects I currently work on include developing LSTM models for text in multiple languages. <br><br>
 
 I received my master's degree in statistics in Nov 2016 from the statistics department of Shahid Beheshti University. My research focus was Statistical Machine Learning and High-Dimensional data problems. <br><br>
