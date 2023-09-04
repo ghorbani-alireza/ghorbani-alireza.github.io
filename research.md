@@ -15,9 +15,8 @@ These two approaches were compared.
 
 ## Projects
 
- - [Sentiment Analysis for Persian Text](https://github.com/alcstat/sentiment_analysis_persian), In this project, I classified Persian text by the polarity (positive
-or negative) opinions expressed within them.
+ - [Sentiment Analysis for Farsi Text](https://github.com/alcstat/sentiment_analysis_persian): Developing algorithm for sentiment analysis of Farsi text with multiple approaches based on the bag-of-word technique in R.
  - [Bayesian Statistics Specialization in R and Python](), 
- - [High Dimensional Classification](), I performed multiple simulations with different settings to compare the performance of some novel high-dimensional classification
+ - [High Dimensional Classification](): multiple simulations with different settings to compare the performance of some novel high-dimensional classification
 methods in R and Matlab.
 
