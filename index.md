@@ -4,7 +4,7 @@ title: ""
 ---
 
 <p>
-  <img src="assets/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:300px; height:400px;">
+  <img src="assets/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:320px; height:400px;">
   <span style="vertical-align:top">
 I'm a quantitative research analyst in the research and development department at <a href="https://www.zarrinroya.com/en/">Zarrin Roya</a> where my research focuses on applying statistics to translate consumers' opinions into business insight. The projects I currently work on include developing LSTM models for text in multiple languages. <br><br>
 
