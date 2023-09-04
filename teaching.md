@@ -1,7 +1,6 @@
 <!-- Using table -->
 <table>
   <tr>
-    <td><img src="image url" alt="" /> </td>
     <td align="left">
       <h1>Introduction to R programming language</h1>
       <p>Some paragraph</p>
