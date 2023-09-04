@@ -3,6 +3,13 @@ layout: page
 title: ""
 ---
 
+
+<p class="paragraph">
+  <img src="https://i.imgur.com/OxHKeTw.gif" alt="Smiley face image" class="image">
+  <span class="text">This is one line of text with image on the left side</span>
+</p>
+
+
 ![My Image]("https://github.com/alcstat/alcstat.github.io/blob/master/assets/1692710671275.jpeg")
  I'm a quantitative research analyst in the research and development department at <a href="https://www.zarrinroya.com/en/">Zarrin Roya</a> where my research focuses on applying statistics to translate consumers' opinions into business insight. The projects I currently work on include developing LSTM models for text in multiple languages. <br><br>
 
