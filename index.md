@@ -5,7 +5,7 @@ title: ""
 
 <p>
   <img src="https://github.com/alcstat/alcstat.github.io/blob/master/assets/1692710671275.jpeg" alt="Smiley face image" style="float:left; width:330px; height:420px;">
-  <span style="vertical-align:bottom">This is one line of text with image on the left side</span>
+  <span style="vertical-align:top">This is one line of text with image on the left side</span>
 </p>
 
 
