@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home} # , icon: home
   - {file: "research.md", title: Research}  # , icon: briefcase
   - {file: "software.md", title: Software}
-  - {file: "teaching.md", title: Teachings}  
+  - {file: "teachings.md", title: Teachings}  
   - {file: "personal.md", title: Persoanl}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
