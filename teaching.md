@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td><img src="image url" alt="" /> <1> </td>
-    <td align="right">
+    <td align="left">
       <h1>Introduction to R programming language</h1>
       <p>Some paragraph</p>
       <ul>
