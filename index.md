@@ -4,7 +4,7 @@ title: ""
 ---
 
 <p>
-  <img src="http://www.example.com/smiley.jpg" alt="Smiley face image" style="float:left; width:42px; height:42px;">
+  <img src="https://github.com/alcstat/alcstat.github.io/blob/master/assets/1692710671275.jpeg" alt="Smiley face image" style="float:left; width:42px; height:42px;">
   <span style="vertical-align:bottom">This is one line of text with image on the left side</span>
 </p>
 
