@@ -5,7 +5,7 @@ title: ""
 
 
 <p class="paragraph">
-  <img src="https://i.imgur.com/OxHKeTw.gif" alt="Smiley face image" class="image">
+  <img src="https://github.com/alcstat/alcstat.github.io/blob/master/assets/1692710671275.jpeg" alt="Smiley face image" class="image">
   <span class="text">This is one line of text with image on the left side</span>
 </p>
 
