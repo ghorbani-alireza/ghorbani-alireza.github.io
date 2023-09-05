@@ -1,19 +1,12 @@
-<!-- Using table -->
-<table>
-  <tr>
-    <td align="left">
-      <h1>Introduction to R programming language</h1>
-      <p>Some paragraph</p>
-      <ul>
-        <li>Some list item</li>
-      </ul>
-      <a href="link url">Some link</a>
-      <h1>Statistics with R</h1>
-      <p>Some paragraph</p>
-      <ul>
-        <li>Some list item</li>
-      </ul>
-      <a href="link url">Some link</a>
-    </td>
-  </tr>
-</table>
+---
+title: ""
+permalink: "/teaching/"
+layout: page
+---
+
+
+
+- Introduction to R programming language (in Persian). [link](https://learnix.ir/courses/course-v1:Learnix+lrnx-courses-254+V1/about)
+- Introduction to statistics with R (in Persian).
+- R for Machine Learning (in Persian).
+
