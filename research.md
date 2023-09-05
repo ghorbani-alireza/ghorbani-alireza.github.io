@@ -4,9 +4,10 @@ permalink: "/research/"
 layout: page
 ---
 
-## Publications
 
- - (Under Review) [Alireza Ghorbani, Mohammad Khajehzadeh, Farima Seifi. (2023). Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method ]() (case study: water pipeline transmission).
+## Papers
+
+ - (Under Review) [Al, Ghorbani. M, Khajehzadeh. F, Seifi. (2023). Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method ]() (case study: water pipeline transmission).
 
 ## Projects
 
