@@ -7,7 +7,8 @@ layout: page
 
 ## Papers
 
- - (Under Review) [Al, Ghorbani. M, Khajehzadeh. F, Seifi. (2023). Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method ]() [code](https://github.com/alcstat/alcstat.github.io/edit/master/software.md).
+ - (Under Review) [Al, Ghorbani. M, Khajehzadeh. F, Seifi. (2023). Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method ]() ([code](https://github.com/alcstat/alcstat.github.io/edit/master/software.md)).
+
 
 ## Projects
 
