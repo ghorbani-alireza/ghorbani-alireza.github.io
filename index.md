@@ -31,5 +31,3 @@ You can download my CV [here](assets/alirezaghorbanicv.pdf).
       alt="ORCID iD icon"/>
     https://orcid.org/0009-0002-8037-7977
 </a>
-
-<img src="assets/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:320px; height:400px;  margin-right: 20px;">
