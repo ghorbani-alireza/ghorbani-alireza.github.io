@@ -16,8 +16,5 @@ My research interests are Statistical Machine Learning, High-Dimensional Statist
 </span>
 </p>
 
-You can download my CV [here](assets/alirezaghorbanicv.pdf).
-    
-
-[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 1em" alt="ORCID icon"/>](https://orcid.org/0009-0002-8037-7977) 
+You can download my CV [here](assets/alirezaghorbanicv.pdf).  [<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 1em" alt="ORCID icon"/>](https://orcid.org/0009-0002-8037-7977) 
 
