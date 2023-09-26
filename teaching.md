@@ -4,7 +4,7 @@ permalink: "/teaching/"
 layout: page
 ---
 
-### Teachings
+# Teachings
 
 
 ## MOOCS
