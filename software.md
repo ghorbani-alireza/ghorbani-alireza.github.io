@@ -11,3 +11,5 @@ layout: page
  - [QUADRO](https://github.com/alcstat/QUADRO): Code for high dimensional quadratic classification method proposed in the paper "QUADRO: A Supervised Dimension Reduction Method Via Rayleigh Quotient Optimization (2015)" in R.
    
  - [ROAD](https://github.com/alcstat/ROAD): Code for high dimensional  classification method proposed in  the paper "A ROAD to Classification in High Dimensional Space (2010)" in R.
+
+---
