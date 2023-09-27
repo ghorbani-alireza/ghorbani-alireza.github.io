@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "software.md", title: Software}
   - {file: "teachings.md", title: Teachings}  
   - {file: "links.md", title: Links}
-  - {file: "dm.md", title: Dark Mode, icon: sun}
+  
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alcstat@outlook.com"}
