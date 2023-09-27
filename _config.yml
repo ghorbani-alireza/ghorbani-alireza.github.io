@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "software.md", title: Software}
   - {file: "teachings.md", title: Teachings}  
   - {file: "links.md", title: Links}
+  - {file: "dark-mode.md", icon: https://www.google.com/search?client=firefox-b-d&q=dark+mode+switch+icon+svg&bshm=rime/1#vhid=PLbM4Yr8IlJZ-M&vssid=l}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alcstat@outlook.com"}
@@ -32,7 +33,10 @@ external:                  # shows a footer with social links - for available ic
   - {title: ResearchGate, icon: registered, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alcstat/"}
 
-  
+document.getElementById('dark-mode-toggle').addEventListener('click', function() {
+  document.body.classList.toggle('dark-mode');
+});
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
