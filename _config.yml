@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "publications.md", title: Publications}  # , icon: briefcase
   - {file: "software.md", title: Software}
   - {file: "teachings.md", title: Teachings}  
-  - {file: "links.md", title: Persoanl}
+  - {file: "links.md", title: Links}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alcstat@outlook.com"}
