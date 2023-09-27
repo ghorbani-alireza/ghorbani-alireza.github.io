@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: "/teaching/"
+permalink: "/teachings/"
 layout: page
 ---
 
