@@ -4,7 +4,6 @@ permalink: "/software/"
 layout: page
 ---
 
-## Software
 
  - [SNN_MCDM](https://github.com/alcstat/sparse_deep_learning_MCDM): Real data study of the approch proposed in the paper "optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method (2023)" in Python.
    
