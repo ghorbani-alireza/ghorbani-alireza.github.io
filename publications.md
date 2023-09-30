@@ -4,10 +4,6 @@ permalink: "/publications/"
 layout: page
 ---
  
-
-## Publications
-
-
 ## 2023+
 
  - Ghorbani, A. Khajehzadeh, M. Seifi, F. Al-Ansari, N and Shahabi, H. (2023).
