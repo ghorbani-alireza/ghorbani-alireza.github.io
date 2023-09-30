@@ -17,4 +17,4 @@ My research interests are Statistical Machine Learning, High-Dimensional Statist
 </p>
 
 
-You can download my CV [here](files/alireza-cv.pdf). 
+You can download my CV [here](files/Alireza-CV.pdf). 
