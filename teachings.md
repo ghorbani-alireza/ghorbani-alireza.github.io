@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Teachings"
 permalink: "/teachings/"
 layout: page
 ---
