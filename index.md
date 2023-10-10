@@ -12,7 +12,7 @@ I'm a quantitative research analyst in the research and development department a
 
 I received my master's degree in statistics in Nov 2016 from the statistics department of Shahid Beheshti University. My research focus was Statistical Machine Learning and High-Dimensional data problems. <br><br>
 
-My research interests are Natural Language Processing, Statistical Machine Learning, and Bayesian Statistics.
+My research interests are Supply Chain Management, Natural Language Processing, Statistical Learning, and Bayesian Statistics.
 </span>
 </p>
 
