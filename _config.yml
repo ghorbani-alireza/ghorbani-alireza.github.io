@@ -28,7 +28,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:ghorbanialireza@outlook.com"}
   - {title: Telegram, icon: telegram, url: "https://t.me/g_alerz/"}
   - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
-  - {title: ResearchGate, icon: kaggle, url: "https://www.kaggle.com/ghorbanialireza"}
+  - {title: ResearchGate, icon: orcid, url: "https://orcid.org/0009-0002-8037-7977"}
   - {title: Github, icon: github, url: "https://github.com/ghorbani-alireza/"}
   - {title: ResearchGate, icon: registered, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ghorbanialireza/"}
