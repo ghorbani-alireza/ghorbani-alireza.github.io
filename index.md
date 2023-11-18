@@ -6,7 +6,7 @@ title: ""
 ## About
 
 <p>
-  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:320px; height:400px;  margin-right: 20px;">
+  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:240px; height:300px;  margin-right: 20px;">
   <span style="vertical-align:right">
 I'm a quantitative research analyst in the research and development department at <a href="https://www.zarrinroya.com/en/">Zarrin Roya</a> where my research focuses on applying statistics to translate consumers' opinions into business insight. The project I am currently working on includes developing sentiment analysis models for pieces of text in multiple languages. <br><br>
 
