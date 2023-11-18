@@ -28,7 +28,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ghorbanialireza@outlook.com"}
   - {title: Telegram, icon: telegram, url: "https://t.me/g_alerz/"}
-  - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
+  - {title: Google Scholar, icon: google, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
   - {title: ORCID, icon: orcid, url: "https://orcid.org/0009-0002-8037-7977"}
   - {title: Github, icon: github, url: "https://github.com/ghorbani-alireza/"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
