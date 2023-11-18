@@ -3,6 +3,9 @@ title: "Publications"
 permalink: "/publications/"
 layout: page
 ---
+
+
+My research interests are Statistical Learning, Bayesian Statistics, Supply Chain Management, and AI-related topics like Deep Learning and Natural Language Processing. 
  
 ## 2023+
 
