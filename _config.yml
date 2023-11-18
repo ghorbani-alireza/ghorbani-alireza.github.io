@@ -22,16 +22,14 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "software.md", title: Software}
   - {file: "teachings.md", title: Teachings}  
   - {file: "links.md", title: Links}
-  
-<i class="fa-brands fa-researchgate"></i>
-<i class="fa-brands fa-orcid"></i>
-<i class="fa-brands fa-google-scholar"></i>
+
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ghorbanialireza@outlook.com"}
   - {title: Telegram, icon: telegram, url: "https://t.me/g_alerz/"}
   - {title: Google Scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=RoWUdywAAAAJ&hl=en"}
-  - {title: ResearchGate, icon: orcid, url: "https://orcid.org/0009-0002-8037-7977"}
+  - {title: ORCID, icon: orcid, url: "https://orcid.org/0009-0002-8037-7977"}
   - {title: Github, icon: github, url: "https://github.com/ghorbani-alireza/"}
   - {title: ResearchGate, icon: researchgate, url: "https://www.researchgate.net/profile/Alireza-Ghorbani-3"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/ghorbanialireza/"}
