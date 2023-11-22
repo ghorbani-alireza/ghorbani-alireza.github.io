@@ -7,7 +7,10 @@ layout: page
 
 # Research Interests
 
-* Statistical Learning, Bayesian Statistics, and AI-related topics like Deep Learning and Natural Language Processing. 
+* Statistical Learning
+* High Dimensional Data
+* Natural Language Processing
+* Bayesian Statistics
 
 # Papers and Preprints
 
