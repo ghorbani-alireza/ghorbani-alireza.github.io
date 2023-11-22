@@ -6,7 +6,7 @@ title: ""
 ## About
 
 <p>
-  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:200px; height:250px;  margin-right: 20px;">
+  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:200px; height:290px;  margin-right: 20px;">
   <span style="vertical-align:right">
     
 Hi, I’m a statistician who loves to use statistics to uncover hidden patterns and insights from data. I work at <a href="https://www.zarrinroya.com/en/">Zarrin Roya</a>, a leading company in the hygiene industry, where I apply my skills to analyze consumers’ opinions and preferences. I’m currently developing sentiment analysis models for texts in multiple languages, which is a challenging and exciting task.  where my research focuses on applying statistics to translate consumers' opinions into business insight. The project I am currently working on includes developing sentiment analysis models for pieces of text in multiple languages. <br><br>
