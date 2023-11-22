@@ -1,13 +1,17 @@
 ---
-title: "Publications"
-permalink: "/publications/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
 
-My research interests are Statistical Learning, Bayesian Statistics, Supply Chain Management, and AI-related topics like Deep Learning and Natural Language Processing. 
- 
-## 2023+
+## Research Interests
+
+* Statistical Learning, Bayesian Statistics, and AI-related topics like Deep Learning and Natural Language Processing. 
+
+## Papers and Preprints
+
+# 2023+
 
  - Ghorbani, A. Khajehzadeh, M. Seifi, F. Al-Ansari, N and Shahabi, H. (2023+).
 Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and the Fuzzy VIKOR Method (case study: water pipeline transmission)
