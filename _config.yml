@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: Research}  # , icon: briefcase
   #- {file: "software.md", title: Software}
   - {file: "teachings.md", title: Teachings}  
-  - {file: "links.md", title: Links}
+  #- {file: "links.md", title: Links}
 
 
 
