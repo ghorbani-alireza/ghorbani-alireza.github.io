@@ -39,6 +39,6 @@ Optimizing Water Pipeline Route Selection Using a Sparse Deep Neural Network and
 
  - Khajehzadeh, M. Pazhuheian, Ghorbani, A. F. Seifi, F. Madrakid, G. (2023+).
 Longitudinal Supply Chain Monitoring using Generalized estimating equation and Joint Optimization method (A case study in the Personal Care Industry)
-([Under-Review](files/long_scm_gee_jo.docx)) .
+([Under-Review](files/Wiley_long_scm_gee_jo.pdf)) .
 
 
