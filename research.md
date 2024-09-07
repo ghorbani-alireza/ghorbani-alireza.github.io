@@ -9,7 +9,7 @@ layout: page
 
 * Statistical Learning
 * High Dimensional Data
-* Natural Language Processing
+* Epidemiology
 * Bayesian Statistics
 
 
