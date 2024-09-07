@@ -6,7 +6,7 @@ title: ""
 ## About
 
 <p>
-  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:100px; height:150px;  margin-right: 20px;">
+  <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:100px; height:130px;  margin-right: 20px;">
   <span style="vertical-align:right">
   
     
