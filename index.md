@@ -8,8 +8,7 @@ title: ""
 <p>
   <img src="files/1692710671275.jpeg" alt="Alireza Ghorbani" style="float:left; width:260px; height:333px;  margin-right: 20px;">
   <span style="vertical-align:right">
-
-
+  
     
 Hi, I’m Alireza Ghorbani, a statistician who loves to use statistics to uncover hidden patterns and insights from data. I work at Zarrin Roya, a leading company in the hygiene industry, where I apply my skills to analyze consumers’ opinions and preferences. <br><br>
 
